@@ -1,13 +1,13 @@
-<?xml version="1.0" encoding="utf-8" ?>
+o<?xml version="1.0" encoding="utf-8" ?>
 <index>
 	<info>
 		<name>The Nixon Domain</name>
 		<update version="1.0.0">
-			<file name="DanielloDD86.index" url="https://github.com/DanielloDD86/The-Nixon-Domain_DND/blob/master/user-yourname.index" />
+			<file name="DanielloDD86.index" url="https://github.com/DanielloDD86/The-Nixon-Domain_DND/blob/master/DanielloDD86.index" />
 		</update>
 	</info>
 	<files>
-		<file name="file1.xml" url="https://raw.githubusercontent.com/yourgithubaccount/repositoryname/master/user-yourname/file1.xml" />
-		<file name="file2.xml" url="https://raw.githubusercontent.com/yourgithubaccount/repositoryname/master/user-yourname/file2.xml" />
+		<file name="cleric-nixondomain.xml" url="https://raw.githubusercontent.com/DanielloDD86/The-Nixon-Domain_DND/master/DanielloDD86/cleric-nixondomain.xml" />
+		<file name="deity-nixon.xml" url="https://raw.githubusercontent.com/DanielloDD86/The-Nixon-Domain_DND/master/DanielloDD86/deity-nixon.xml" />
 	</files>
 </index>
