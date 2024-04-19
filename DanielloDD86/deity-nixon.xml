@@ -1,12 +1,22 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <elements>
 	<info>
-		<name>File 2</name>
+		<name>deity-nixon</name>
 		<update version="1.0.0">
 			<file name="deity-nixon.xml" url="https://raw.githubusercontent.com/DanielloDD86/The-Nixon-Domain_DND/master/DanielloDD86/deity-nixon.xml" />
 		</update>
 	</info>
 	
-	<!-- place your elements here -->
+	<element name="Richard Nixon" type="Deity" source="The Nixon Domain" id="ID_HMBR_TND_DEITY_NIXON">
+		<description>
+	            <p>Richard Nixon is 37th president of United States Of America, His specialty is failing to Kennedy and capitalism</p>
+	        </description>
+	        <setters>
+	            <set name="alignment">Lawful Neutral</set>
+	            <set name="domains">Capitalism, Peace</set>
+	            <set name="symbol">A gold coin on an inter-continental balistic missle</set>
+	            <set name="gender">Male</set>
+	        </setters>
+	</element>
 	
 </elements>
