@@ -5,7 +5,7 @@
     <description>The Nixon Domain , Homebrew</description>
     <author url="https://github.com/DanielloDD86">DanielloDD86</author>
     <update version="0.0.1">
-      <file name="cleric-nixondomain.xml" url="https://github.com/DanielloDD86/The-Nixon-Domain_DND/edit/master/user-yourname/cleric-nixondomain.xml" />
+      <file name="cleric-nixondomain.xml" url="https://github.com/DanielloDD86/The-Nixon-Domain_DND/edit/master/DanielloDD86/cleric-nixondomain.xml" />
     </update>
   </info>
   <element name="Grave Domain" type="Archetype" source="Xanathar’s Guide to Everything" id="ID_WOTC_XGTE_ARCHETYPE_CLERIC_GRAVE_DOMAIN">
