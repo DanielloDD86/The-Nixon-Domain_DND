@@ -1,4 +1,4 @@
-o<?xml version="1.0" encoding="utf-8" ?>
+o<?xml version="1.1" encoding="utf-8" ?>
 <index>
 	<info>
 		<name>The Nixon Domain</name>
@@ -7,7 +7,6 @@ o<?xml version="1.0" encoding="utf-8" ?>
 		</update>
 	</info>
 	<files>
-		<file name="cleric-nixondomain.xml" url="https://raw.githubusercontent.com/DanielloDD86/The-Nixon-Domain_DND/master/The-Nixon-Domain/cleric-nixondomain.xml" />
 		<file name="deity-nixon.xml" url="https://raw.githubusercontent.com/DanielloDD86/The-Nixon-Domain_DND/master/The-Nixon-Domain/deity-nixon.xml" />
 	</files>
 </index>

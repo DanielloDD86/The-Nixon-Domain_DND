@@ -34,3 +34,7 @@ Channel Divinity:
   donation is also proportional to half your cleric level (rounded down).
   The number of times you can use this feature is based on the level you've reached in this class:
   2nd level, once; 6th level, twice; and 18th level, thrice. You regain all expended uses when you finish a long rest.
+
+
+  
+		<file name="cleric-nixondomain.xml" url="https://raw.githubusercontent.com/DanielloDD86/The-Nixon-Domain_DND/master/The-Nixon-Domain/cleric-nixondomain.xml" />
