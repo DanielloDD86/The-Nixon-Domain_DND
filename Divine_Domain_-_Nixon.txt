@@ -1,0 +1,36 @@
+Divine Domain - Nixon
+
+Example Deity - Richard Nixon
+
+Nixon Spells:
+
+1st - Command, Disguise Self
+3rd - Suggestion, Mirror Image
+5th - Blindness/Deafness, Sleet Storm
+7th - Confusion, Wall of Fire
+9th - Cloudkill, Dominate Person
+
+Feature:
+1st - Profinciency - Intimidation, Heavy Armour
+    - "Smoke-Filled Room" - 3/long rest - Using a shield, you can create a 5-foot radius of smoke, anyone in that 
+      radius is stunned and you become blinded. - Dex Save - Cleric Spell Save DC
+
+2nd - Channel Divinity - Private Healthcare
+
+6th - Starting at 6th level, you have to pick a designated player from your party.
+      Afterwards you will be able to heal this player outside of your own range.
+
+8th - Divine Strike -  At 8th level, you gain the ability to infuse your weapon strikes with poison – a gift from your deity.
+      Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra 1d8 fire damage to the target.
+      When you reach 14th level, the extra damage increases to 2d8.
+
+17th - 1/long rest - At 17th level, you are able to summon and command a "Douglas C-47 Skytrain" into any 20-foot radius,
+       creating a giant explosion dealing 4d6 fire damage on a successful save, and 8d6 on a failed save.
+       (yes, you do just get one fireball every long rest :] )
+
+Channel Divinity:
+- By expending a use of your Channel Divinity, you are able to heal one of your allies using the power of your deities healthcare,
+  proportional to the "donation" you give. (example 1d10 of healing being five gold) - the amount of dice you can get from
+  donation is also proportional to half your cleric level (rounded down).
+  The number of times you can use this feature is based on the level you've reached in this class:
+  2nd level, once; 6th level, twice; and 18th level, thrice. You regain all expended uses when you finish a long rest.
