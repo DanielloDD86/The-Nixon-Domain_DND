@@ -4,7 +4,7 @@
     <name>NIXON Domain</name>
     <description>The Nixon Domain , Homebrew</description>
     <author url="https://github.com/DanielloDD86">DanielloDD86</author>
-    <update version="1.0.1">
+    <update version="1.0.2">
       <file name="cleric-nixondomain.xml" url="https://github.com/DanielloDD86/The-Nixon-Domain_DND/raw/master/The-Nixon-Domain/cleric-nixondomain.xml" />
     </update>
   </info>
@@ -13,6 +13,7 @@
     <description>
       <p>The allmighty Richard Nixon watches over his supporters and helps them achieve greatness with his connections to the capitalist world</p>
       <div element="ID_HMBR_TND_ARCHETYPE_FEATURE_NIXON_DOMAIN_DOMAIN_SPELLS" />
+      <div element="ID_HMBR_TND_ARCHETYPE_FEATURE_NIXON_DOMAIN_BONUS_PROFICIENCIES" />
       <div element="ID_HMBR_TND_ARCHETYPE_FEATURE_NIXON_DOMAIN_SMOKE_FILLED_ROOM" />
       <div element="ID_HMBR_TND_ARCHETYPE_FEATURE_NIXON_DOMAIN_CD_PRIVATE_HEALTHCARE" />
       <div element="ID_HMBR_TND_ARCHETYPE_FEATURE_NIXON_DOMAIN_AMBULANCE_SERVICE" />
@@ -24,6 +25,7 @@
     </sheet>
     <rules>
       <grant type="Archetype Feature" id="ID_HMBR_TND_ARCHETYPE_FEATURE_NIXON_DOMAIN_DOMAIN_SPELLS" level="1"/>
+      <grant type="Archetype Feature" id="ID_HMBR_TND_ARCHETYPE_FEATURE_NIXON_DOMAIN_BONUS_PROFICIENCIES" level="1"/>
       <grant type="Archetype Feature" id="ID_HMBR_TND_ARCHETYPE_FEATURE_NIXON_DOMAIN_SMOKE_FILLED_ROOM" level="1"/>
       <grant type="Archetype Feature" id="ID_HMBR_TND_ARCHETYPE_FEATURE_NIXON_DOMAIN_CD_PRIVATE_HEALTHCARE" level="2"/>
       <grant type="Archetype Feature" id="ID_HMBR_TND_ARCHETYPE_FEATURE_NIXON_DOMAIN_AMBULANCE_SERVICE" level="6"/>
@@ -57,6 +59,18 @@
       <grant type="Spell" id="ID_PHB_SPELL_WALL_OF_FIRE" level="7" spellcasting="Cleric" prepared="true" />
       <grant type="Spell" id="ID_PHB_SPELL_CLOUDKILL" level="9" spellcasting="Cleric" prepared="true" />
       <grant type="Spell" id="ID_PHB_SPELL_DOMINATE_PERSON" level="9" spellcasting="Cleric" prepared="true" />
+    </rules>
+  </element>
+  <element name="Bonus Proficiencies" type="Archetype Feature" source="The Nixon Domain" id="ID_HMBR_TND_ARCHETYPE_FEATURE_NIXON_DOMAIN_BONUS_PROFICIENCIES">
+    <description>
+			<p>When you choose this domain at 1st level, you gain proficiency with heavy armor and in the Intimidation.</p>
+    </description>
+    <sheet display="false">
+      <description>You gain proficiency with heavy armor. You also gain proficiency in the Intimidation or Persuasion skill.</description>
+    </sheet>
+    <rules>
+      <grant type="Proficiency" id="ID_PROFICIENCY_ARMOR_PROFICIENCY_HEAVY_ARMOR" />
+			<grant type="Proficiency" id="ID_PROFICIENCY_SKILL_INTIMIDATION" />
     </rules>
   </element>
   <element name="Smoke Filled Room" type="Archetype Feature" source="The Nixon Domain" id="ID_HMBR_TND_ARCHETYPE_FEATURE_NIXON_DOMAIN_SMOKE_FILLED_ROOM">
