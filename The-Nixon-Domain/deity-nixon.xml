@@ -3,7 +3,7 @@
 	<info>
 		<name>deity-nixon</name>
 		<update version="1.0.0">
-			<file name="deity-nixon.xml" url="https://raw.githubusercontent.com/DanielloDD86/The-Nixon-Domain_DND/master/The-Nixon-Domain/deity-nixon.xml" />
+			<file name="deity-nixon.xml" url="https://raw.githubusercontent.com/DanielloDD86/The-Nixon-Domain_DND/raw/master/The-Nixon-Domain/deity-nixon.xml" />
 		</update>
 	</info>	
 	<element name="Richard Nixon" type="Deity" source="The Nixon Domain" id="ID_HMBR_TND_DEITY_NIXON">

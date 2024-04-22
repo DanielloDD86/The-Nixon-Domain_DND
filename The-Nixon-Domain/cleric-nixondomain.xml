@@ -5,7 +5,7 @@
     <description>The Nixon Domain , Homebrew</description>
     <author url="https://github.com/DanielloDD86">DanielloDD86</author>
     <update version="1.0.0">
-      <file name="cleric-nixondomain.xml" url="https://github.com/DanielloDD86/The-Nixon-Domain_DND/master/The-Nixon-Domain/cleric-nixondomain.xml" />
+      <file name="cleric-nixondomain.xml" url="https://github.com/DanielloDD86/The-Nixon-Domain_DND/raw/master/The-Nixon-Domain/cleric-nixondomain.xml" />
     </update>
   </info>
   <element name="Nixon Domain" type="Archetype" source="The Nixon Domain" id="ID_HMBR_TND_ARCHETYPE_CLERIC_NIXON_DOMAIN">
