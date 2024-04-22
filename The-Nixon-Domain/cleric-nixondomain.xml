@@ -4,7 +4,7 @@
     <name>NIXON Domain</name>
     <description>The Nixon Domain , Homebrew</description>
     <author url="https://github.com/DanielloDD86">DanielloDD86</author>
-    <update version="1.0.0">
+    <update version="1.0.1">
       <file name="cleric-nixondomain.xml" url="https://github.com/DanielloDD86/The-Nixon-Domain_DND/raw/master/The-Nixon-Domain/cleric-nixondomain.xml" />
     </update>
   </info>
@@ -46,9 +46,6 @@
         <tr><td>9th</td><td><em>Cloudkill, Dominate Person</em></td></tr>
       </table>
     </description>
-    <sheet>
-      <description></description>
-    </sheet>
     <rules>
       <grant type="Spell" id="ID_PHB_SPELL_COMMAND" level="1" spellcasting="Cleric" prepared="true" />
       <grant type="Spell" id="ID_PHB_SPELL_DISGUISE_SELF" level="1" spellcasting="Cleric" prepared="true" />
