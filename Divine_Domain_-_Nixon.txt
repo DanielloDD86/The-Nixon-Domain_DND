@@ -38,3 +38,4 @@ Channel Divinity:
 
   
 		<file name="cleric-nixondomain.xml" url="https://raw.githubusercontent.com/DanielloDD86/The-Nixon-Domain_DND/master/The-Nixon-Domain/cleric-nixondomain.xml" />
+            <file name="deity-nixon.xml" url="https://raw.githubusercontent.com/DanielloDD86/The-Nixon-Domain_DND/master/The-Nixon-Domain/deity-nixon.xml"/>
