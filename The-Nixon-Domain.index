@@ -2,12 +2,12 @@
 <index>
 	<info>
 		<name>The Nixon Domain</name>
-		<update version="1.0.1">
+		<update version="1.0.2">
 			<file name="The-Nixon-Domain.index" url="https://github.com/DanielloDD86/The-Nixon-Domain_DND/raw/master/The-Nixon-Domain.index"/>
 		</update>
 	</info>
 	<files>
-	<file name="cleric-nixondomain.xml" url="https://raw.githubusercontent.com/DanielloDD86/The-Nixon-Domain_DND/master/The-Nixon-Domain/cleric-nixondomain.xml" />
-    <file name="deity-nixon.xml" url="https://raw.githubusercontent.com/DanielloDD86/The-Nixon-Domain_DND/master/The-Nixon-Domain/deity-nixon.xml"/>
+		<file name="cleric-nixondomain.xml" url="https://raw.githubusercontent.com/DanielloDD86/The-Nixon-Domain_DND/master/The-Nixon-Domain/cleric-nixondomain.xml" />
+    		<file name="deity-nixon.xml" url="https://raw.githubusercontent.com/DanielloDD86/The-Nixon-Domain_DND/master/The-Nixon-Domain/deity-nixon.xml"/>
 	</files>
 </index>
